@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crear Usuario</title>
+</head>
+<body>
+    <h1>Crear Usuario</h1>
+    <form action="create_user.php" method="POST">
+        <label for="idEmpleado">ID Empleado:</label>
+        <input type="text" id="idEmpleado" name="idEmpleado" required><br>
+
+        <label for="idAlmacen">ID Almacen:</label>
+        <input type="text" id="idAlmacen" name="idAlmacen" required><br>
+
+        <label for="login">Login:</label>
+        <input type="text" id="login" name="login" required><br>
+
+        <label for="passlogin">Contraseña:</label>
+        <input type="password" id="passlogin" name="passlogin" required><br>
+
+        <label for="idPerfil">ID Perfil:</label>
+        <input type="text" id="idPerfil" name="idPerfil" required><br>
+
+        <input type="submit" value="Crear Usuario">
+    </form>
+</body>
+</html>

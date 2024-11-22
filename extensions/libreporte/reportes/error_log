@@ -1,0 +1,11 @@
+[16-Nov-2022 02:31:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/conexion_reporte/r_conexion.php on line 3
+[16-Nov-2022 02:32:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/conexion_reporte/r_conexion.php on line 3
+[16-Nov-2022 02:33:58 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
+[08-Dec-2022 23:18:26 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
+[09-Dec-2022 02:25:08 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
+[14-Dec-2022 01:07:55 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
+[10-Jan-2023 20:04:30 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
+[13-Jan-2023 19:23:40 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
+[13-Jan-2023 19:23:47 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
+[13-Jan-2023 19:23:55 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
+[31-Jan-2023 23:23:45 UTC] PHP Notice:  Undefined variable: html in /home/zanahoriarefugio/public_html/sistemaVentas/extensions/libreporte/reportes/generar_prueba.php on line 97
